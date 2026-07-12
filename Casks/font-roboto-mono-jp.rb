@@ -1,6 +1,6 @@
 cask "font-roboto-mono-jp" do
-  version "6.2.0"
-  sha256 "1e293c4710f7665be9fb33de2bad457d19eac21ba0c9904893cb6b50c3f19c05"
+  version "7.0.0"
+  sha256 "069e60cd55cfe16c98b85cce8d66e7a0da78e0a3bc7dadcc44164e37eeb9234c"
 
   url "https://github.com/mjun0812/RobotoMonoJP/releases/download/v#{version}/RobotoMonoJP-Fonts-v#{version}.zip"
   name "Roboto Mono JP"
