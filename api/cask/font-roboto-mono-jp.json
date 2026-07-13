@@ -1,0 +1,292 @@
+{
+  "token": "font-roboto-mono-jp",
+  "full_token": "mjun0812/roboto-mono-jp/font-roboto-mono-jp",
+  "old_tokens": [],
+  "tap": "mjun0812/roboto-mono-jp",
+  "name": [
+    "Roboto Mono JP"
+  ],
+  "desc": "Monospace fonts combining Roboto Mono, Japanese fonts, and Nerd Fonts",
+  "homepage": "https://github.com/mjun0812/RobotoMonoJP",
+  "url": "https://github.com/mjun0812/RobotoMonoJP/releases/download/v7.1.0/RobotoMonoJP-Fonts-v7.1.0.zip",
+  "url_specs": {},
+  "version": "7.1.0",
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "installed": null,
+  "installed_time": null,
+  "bundle_version": null,
+  "bundle_short_version": null,
+  "pinned": false,
+  "pinned_version": null,
+  "outdated": false,
+  "sha256": "3d63d48669b27aa7aabc564ffb36799924fc852bb12898e77b3d2e89ae51e508",
+  "artifacts": [
+    {
+      "font": [
+        "RobotoMonoZenKaku-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoGenJyuu-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoLineSeed-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoNoto-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoPlex-Mono-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-BoldItalic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Mono-Regular.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Mono-Bold.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoZenKaku-Mono-Italic.ttf"
+      ]
+    },
+    {
+      "font": [
+        "RobotoMonoBizUd-Regular.ttf"
+      ]
+    }
+  ],
+  "caveats": null,
+  "caveats_rosetta": null,
+  "depends_on": {},
+  "conflicts_with": null,
+  "container": null,
+  "rename": [],
+  "auto_updates": null,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "tap_git_head": "bb35f2ebe1a253ee31985ea63af250030f2a1c85",
+  "languages": [],
+  "ruby_source_path": "Casks/font-roboto-mono-jp.rb",
+  "ruby_source_checksum": {
+    "sha256": "1e5cb91fd86bcbdb8540e31b51e881aa3b449a2aa12e59914687fd0c590c5a58"
+  }
+}
