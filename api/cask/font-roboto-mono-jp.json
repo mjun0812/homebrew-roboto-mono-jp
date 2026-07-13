@@ -8,9 +8,9 @@
   ],
   "desc": "Monospace fonts combining Roboto Mono, Japanese fonts, and Nerd Fonts",
   "homepage": "https://github.com/mjun0812/RobotoMonoJP",
-  "url": "https://github.com/mjun0812/RobotoMonoJP/releases/download/v7.1.0/RobotoMonoJP-Fonts-v7.1.0.zip",
+  "url": "https://github.com/mjun0812/RobotoMonoJP/releases/download/v7.1.1/RobotoMonoJP-Fonts-v7.1.1.zip",
   "url_specs": {},
-  "version": "7.1.0",
+  "version": "7.1.1",
   "autobump": true,
   "no_autobump_message": null,
   "skip_livecheck": false,
@@ -21,247 +21,295 @@
   "pinned": false,
   "pinned_version": null,
   "outdated": false,
-  "sha256": "3d63d48669b27aa7aabc564ffb36799924fc852bb12898e77b3d2e89ae51e508",
+  "sha256": "b3a9936412f329b6bdf815e98d4fd0dcbc387152c6ea6fdbace65cdee50a0bf9",
   "artifacts": [
     {
       "font": [
-        "RobotoMonoZenKaku-Mono-BoldItalic.ttf"
-      ]
+        "RobotoMonoBizUd-Regular.ttf"
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Mono-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoBizUd-Mono-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoBizUd-Mono-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Mono-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoGenJyuu-Mono-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoGenJyuu-Mono-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Mono-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoLineSeed-Mono-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoLineSeed-Mono-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Mono-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoNoto-Mono-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoNoto-Mono-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Mono-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoPlex-Mono-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoPlex-Mono-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Italic.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-BoldItalic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-BoldItalic.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Mono-Regular.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Mono-Regular.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Mono-Bold.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Mono-Bold.ttf"
     },
     {
       "font": [
         "RobotoMonoZenKaku-Mono-Italic.ttf"
-      ]
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Mono-Italic.ttf"
     },
     {
       "font": [
-        "RobotoMonoBizUd-Regular.ttf"
-      ]
+        "RobotoMonoZenKaku-Mono-BoldItalic.ttf"
+      ],
+      "target": "/home/runner/.local/share/fonts/RobotoMonoZenKaku-Mono-BoldItalic.ttf"
     }
   ],
   "caveats": null,
@@ -283,10 +331,10 @@
   "disable_replacement_formula": null,
   "disable_replacement_cask": null,
   "disable_args": null,
-  "tap_git_head": "bb35f2ebe1a253ee31985ea63af250030f2a1c85",
+  "tap_git_head": "c7a0ee5b99e43d5ae3fdd7fe7e2aa8b730f9c26c",
   "languages": [],
   "ruby_source_path": "Casks/font-roboto-mono-jp.rb",
   "ruby_source_checksum": {
-    "sha256": "1e5cb91fd86bcbdb8540e31b51e881aa3b449a2aa12e59914687fd0c590c5a58"
+    "sha256": "c655900ebf8cf90ea22a63324d825fc07a685a6b140abb5cb8d93ae22a40830b"
   }
 }
