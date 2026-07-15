@@ -8,9 +8,9 @@
   ],
   "desc": "Monospace fonts combining Roboto Mono, Japanese fonts, and Nerd Fonts",
   "homepage": "https://github.com/mjun0812/RobotoMonoJP",
-  "url": "https://github.com/mjun0812/RobotoMonoJP/releases/download/v7.1.1/RobotoMonoJP-Fonts-v7.1.1.zip",
+  "url": "https://github.com/mjun0812/RobotoMonoJP/releases/download/v7.1.2/RobotoMonoJP-Fonts-v7.1.2.zip",
   "url_specs": {},
-  "version": "7.1.1",
+  "version": "7.1.2",
   "autobump": true,
   "no_autobump_message": null,
   "skip_livecheck": false,
@@ -21,7 +21,7 @@
   "pinned": false,
   "pinned_version": null,
   "outdated": false,
-  "sha256": "b3a9936412f329b6bdf815e98d4fd0dcbc387152c6ea6fdbace65cdee50a0bf9",
+  "sha256": "224153fc28e60312ba50b94da42695c1e7a952f2fe9b3f3ad9f6a9d76f82d226",
   "artifacts": [
     {
       "font": [
@@ -331,10 +331,10 @@
   "disable_replacement_formula": null,
   "disable_replacement_cask": null,
   "disable_args": null,
-  "tap_git_head": "c7a0ee5b99e43d5ae3fdd7fe7e2aa8b730f9c26c",
+  "tap_git_head": "d8428bec100f36777fa60a55666a79d74be8d137",
   "languages": [],
   "ruby_source_path": "Casks/font-roboto-mono-jp.rb",
   "ruby_source_checksum": {
-    "sha256": "c655900ebf8cf90ea22a63324d825fc07a685a6b140abb5cb8d93ae22a40830b"
+    "sha256": "b4178d6ed0b26cc16b245c20cc51a9722ebbbf17a50210951997200245accb3c"
   }
 }
